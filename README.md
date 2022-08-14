@@ -2,6 +2,7 @@
 # Bugs and tests report
 ```
 Last updated 14/8/22
+Reports by @Rayyan
 ```
 ## Join the Testing Program!
 - [Group Chat](https://cloud.datafirenetworks.com/call/6radj368) 
