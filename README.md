@@ -1,7 +1,7 @@
 ![](https://github.com/DFN-Testers/Bugs/blob/main/WebImages/Logo.png?raw=true)
 # Bugs and tests report
 ```
-Last updated 14/8/22
+Last updated 16/8/22
 Reports by @Rayyan
 ```
 ## Join the Testing Program!
